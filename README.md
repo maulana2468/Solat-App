@@ -3,7 +3,7 @@
 
 Data fetched from [jadwalsholat.org](https://jadwalsholat.org) with scraping method
 
---> app.py
+--> app_new.py
 
 ## Main Window
 
