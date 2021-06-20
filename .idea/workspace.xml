@@ -3,14 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="13fdae4c-e9cc-4fab-9882-c51d860f7f62" name="Default Changelist" comment="Update app.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/compass.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/data_jadwal.cfg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/data_kota.cfg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/params.cfg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/sound_temp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/temp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
